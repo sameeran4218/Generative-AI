@@ -1,0 +1,5 @@
+# Environment variables (Crucial for security)
+.env
+.venv/
+env/
+venv/
