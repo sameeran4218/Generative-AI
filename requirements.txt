@@ -4,3 +4,6 @@ langchain-groq
 python-dotenv
 langchain-huggingface
 pydantic
+langchain-community
+pypdf
+sentence-transformers
