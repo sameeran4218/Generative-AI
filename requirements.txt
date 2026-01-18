@@ -7,3 +7,5 @@ pydantic
 langchain-community
 pypdf
 sentence-transformers
+youtube-transcript-api
+faiss-cpu
