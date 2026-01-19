@@ -9,3 +9,4 @@ pypdf
 sentence-transformers
 youtube-transcript-api
 faiss-cpu
+ddgs
